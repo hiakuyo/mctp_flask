@@ -1,6 +1,7 @@
 # MCTP FLASK - Mcreatopia Society Project
 
 MCREATOPIA社群系统(MSP):成员信息管理, 虚拟资产交易, 多游戏服务器数据互通, 社区活动/信息发布, 以及备份数据管理
+mctp的大家请多交issue,我们的社群一定会变得更好
 
 ## TODO
 
@@ -10,5 +11,5 @@ MCREATOPIA社群系统(MSP):成员信息管理, 虚拟资产交易, 多游戏服
 - 成员信息管理(初始录入)
 - 虚拟交易支持
 - 给*终端mod*(WIP)提供api
-- 成员虚拟资产管
+- 成员虚拟资产管理
 
