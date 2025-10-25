@@ -2,8 +2,7 @@ name: mctp_flask
 dependencies:
   - python=3.10
   - flask
-  - flask_sqlalchemy
-  - flask_migrate
+  - flask-migrate
   - pip
   - pip:
       - gunicorn
